@@ -1,0 +1,12 @@
+ann_path: data/annotations/cricketvqa_v1.json
+batch_size: 4
+checkpoint_dir: checkpoints/
+epochs: 3
+gradient_accumulation_steps: 8
+img_root: data/frames
+learning_rate: 0.0002
+lora_alpha: 32
+lora_dropout: 0.05
+lora_rank: 16
+model: llava-hf/llava-1.5-7b-hf
+warmup_steps: 100
