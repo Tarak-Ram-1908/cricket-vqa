@@ -1,0 +1,4 @@
+﻿# Run this to start Label Studio for annotation
+# Make sure venv is activated first
+
+label-studio start --port 8080 --log-level WARNING

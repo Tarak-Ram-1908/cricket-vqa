@@ -1,0 +1,35 @@
+{
+  "info": {
+    "dataset": "CricketVQA-v1",
+    "version": "1.0"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "test.jpg",
+      "width": 1280,
+      "height": 720,
+      "match_meta": {
+        "phase": "powerplay"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "question_id": 1,
+      "question_type": "counting",
+      "question": "How many fielders are in the infield?",
+      "answer": "4",
+      "bbox": null
+    }
+  ],
+  "question_types": [
+    "counting",
+    "spatial",
+    "formation",
+    "context",
+    "grounding"
+  ]
+}
