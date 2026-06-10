@@ -1,0 +1,9 @@
+[
+  {"question_id": 1, "image_id": 1, "question_type": "counting",  "predicted_answer": "4"},
+  {"question_id": 2, "image_id": 1, "question_type": "counting",  "predicted_answer": "3"},
+  {"question_id": 3, "image_id": 1, "question_type": "spatial",   "predicted_answer": "yes"},
+  {"question_id": 4, "image_id": 1, "question_type": "spatial",   "predicted_answer": "fine-leg"},
+  {"question_id": 5, "image_id": 1, "question_type": "formation", "predicted_answer": "attacking off-side field with three slips one man on leg side"},
+  {"question_id": 6, "image_id": 1, "question_type": "context",   "predicted_answer": "powerplay"},
+  {"question_id": 7, "image_id": 1, "question_type": "grounding", "predicted_answer": "[0.70, 0.19, 0.13, 0.21]"}
+]
