@@ -1,9 +1,14 @@
 ﻿venv/
 checkpoints/
 data/frames/
-data/raw_videos/
+data/frames_wide/
+data/frames_filtered/
+data/frames_good/
+data/frames_import/
+data/frames_wide_sample/
 data/frames_sample/
 data/frames_sample2/
+data/raw_videos/
 __pycache__/
 *.pyc
 *.mp4
